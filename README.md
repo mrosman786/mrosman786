@@ -60,7 +60,7 @@
 ## Connect with me:
 <p align="left">
 	 <a href ="https://www.upwork.com/freelancers/~017377d176fd97919e"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-shadow-tal-revivo.png"/></a>
-<a href = "https://www.linkedin.com/in/muhammad-osman-389986122/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/mrosman786/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://web.facebook.com/mrosman786"><img src="https://img.icons8.com/color/50/000000/facebook.png"/></a>
 <a href = "https://www.instagram.com/muhammad.osmann/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
