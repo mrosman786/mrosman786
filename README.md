@@ -6,13 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Web Scraping](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on **[Web Scraping](#)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](#)**
+- 👨‍💻 All of my projects are available at **[My Upwork Portfolio](https://www.upwork.com/freelancers/~017377d176fd97919e)**
 
 - 📫 How to reach me **mmuhammadusman1@gmail.com**
 
